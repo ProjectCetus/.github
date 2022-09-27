@@ -2,6 +2,7 @@
 
 A platform specialized for English Learners by memorizing lexical chunks.
 
+
 ## Cetus 英语学习平台
 
 - Cetus以分割词块的方式将特定导入的英语文章进行分割，后存入学习仓库中，可以实现预习，复习等英语学习
@@ -9,6 +10,10 @@ A platform specialized for English Learners by memorizing lexical chunks.
 - lexical chunks的学习法甚至可以帮助学习者学习高等级英语词块和高难度英语文章的词块进行提升自我，可以突破背单词软件等软件的限制，适合非考试倾向英语爱好者使用
 - 同样，对雅思托福gre学生来说，写作/口语是一个难点，需要对脑中的单词和用法进行提取，词块的导入可以使学习更有效率
 - 甚至可以导入高分范文文章，用词块记忆法，比起固定的背所有句子，词块更省时间，通过组织词块的方式输出英语可以避免一些非母语者的不规范
+
+## contact us
+*[Discord](https://discord.gg/9HnN3pT9ZZ)*
+
 
 ## 其他特性
 

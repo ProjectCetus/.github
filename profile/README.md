@@ -13,7 +13,7 @@ A platform specialized for English Learners by memorizing lexical chunks.
 
 ## contact us
 *[Discord](https://discord.gg/9HnN3pT9ZZ)*
-
+*[Telegram Group](https://t.me/cetusCom)*
 
 ## 其他特性
 
